@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/keeper-notes-app/static/js/main.c25eac57.chunk.js",
+    "main.js.map": "/keeper-notes-app/static/js/main.c25eac57.chunk.js.map",
+    "runtime-main.js": "/keeper-notes-app/static/js/runtime-main.c8e82aae.js",
+    "runtime-main.js.map": "/keeper-notes-app/static/js/runtime-main.c8e82aae.js.map",
+    "static/js/2.376f357d.chunk.js": "/keeper-notes-app/static/js/2.376f357d.chunk.js",
+    "static/js/2.376f357d.chunk.js.map": "/keeper-notes-app/static/js/2.376f357d.chunk.js.map",
+    "index.html": "/keeper-notes-app/index.html",
+    "precache-manifest.f050752b4b53182798b0cbbe5518537b.js": "/keeper-notes-app/precache-manifest.f050752b4b53182798b0cbbe5518537b.js",
+    "service-worker.js": "/keeper-notes-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e82aae.js",
+    "static/js/2.376f357d.chunk.js",
+    "static/js/main.c25eac57.chunk.js"
+  ]
+}
